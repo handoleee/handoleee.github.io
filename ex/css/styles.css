@@ -40,6 +40,9 @@
   --breakpoint-xl: 1200px;
  
 }
+
+<div class="subheading mb-3">java</div>
+
 /* skill section */
 section.skills-section {
   display: flex;
